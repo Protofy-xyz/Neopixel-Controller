@@ -1,0 +1,3 @@
+bom: /production_files/PFY_WLED_Neopixel_Controller_bom.csv
+gerbers: production_files/PFY_WLED_Neopixel_Controller_gerbers.csv
+site: https://protofy.xyz/electronics/neopixel-controller
